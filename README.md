@@ -1,1 +1,1 @@
-canteen-reservation-system
+canteen_reservation _system
